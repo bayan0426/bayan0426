@@ -34,20 +34,21 @@
 <br/>
 
 <details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <summary><h2>📘 Featured Projects</h2></summary>
   <br/>
   
   <p align="left">
-    <a href="https://github.com/Bayan0426/ADHD-Expert-System-AI">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bayan0426&repo=ADHD-Expert-System-AI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="ADHD Expert System">
+    <a href="https://github.com/Bayan0426/ADHD-Expert-System-AI" style="text-decoration:none;">
+      <kbd><b> 🧠 ADHD-Expert-System-AI 🔗 </b></kbd>
     </a>
   </p>
 
-  <p>
-    <b>🧠 ADHD Hyperactivity Diagnosis Expert System</b><br/>
-    An AI-based screening tool developed for <b>CPCS-331</b> at King Abdulaziz University. 
-    Built with <b>Python</b> and <b>Tkinter</b> to simulate diagnostic reasoning.
-  </p>
+  <blockquote>
+    <strong>Description:</strong> An AI-based screening tool developed for <b>CPCS-331 (Artificial Intelligence)</b> at King Abdulaziz University.<br/>
+    <strong>Tech Stack:</strong> 🐍 Python | 🖥️ Tkinter (GUI) | 🤖 Rule-Based Logic
+  </blockquote>
+  
+
 </details>
 
 <details open> 
