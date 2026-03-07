@@ -84,6 +84,15 @@
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
     <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white">
   </p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+    <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white">
+  </p>
+
+  <blockquote>
+    🎨 <b>Creative Note:</b> As an official Canva Creator, I bridge the gap between <b>Software Logic</b> and <b>Visual Design</b>.
+  </blockquote>
+
+</details>
 </details>
 
 <br/>
