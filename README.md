@@ -1,4 +1,9 @@
+# ✨ Hello, I'm Bayan  
+> *Transforming complex logic into functional code.*
 
+🎓 **CS Student at KAU** | 🧠 **AI & Machine Learning Enthusiast** | 💻 **Software Engineering**
+
+I enjoy solving real-world problems through clean and efficient code.
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
