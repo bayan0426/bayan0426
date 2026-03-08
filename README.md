@@ -44,11 +44,20 @@
   </p>
 
   <blockquote>
-    <strong>Description:</strong> An AI-based screening tool developed for <b>CPCS-331 (Artificial Intelligence)</b> at King Abdulaziz University.<br/>
+    <strong>Description:</strong> An AI-based screening tool developed for <b>CPCS-331 (Artificial Intelligence)</b> .<br/>
     <strong>Tech Stack:</strong> 🐍 Python | 🖥️ Tkinter (GUI) | 🤖 Rule-Based Logic
   </blockquote>
-  
 
+ <p align="left">
+    <a href="https://github.com/bayan0426/Smart-TCP-Chat-System" style="text-decoration:none;">
+      <kbd><b> 🛡️ Smart-TCP-Chat-System 🔗 </b></kbd>
+    </a>
+  </p>
+
+  <blockquote>
+    <strong>Description:</strong> A Java-based Client-Server chat system featuring automated content filtering and anti-spam protection. Developed as practice for <b>CPCS-371 (Computer Networks)</b>.<br/>
+    <strong>Tech Stack:</strong> ☕ Java | 🧵 Multithreading | 🌐 TCP/IP Sockets | 🛡️ Regex Filtering
+  </blockquote>
 </details>
 
 <details open> 
